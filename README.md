@@ -2,6 +2,9 @@
 
 ***Start of Researching Development Started on 18/7/2024 at 1:44AM 🕓***
 
+***End of Development was on 18/7/2024 at 5:55PM 🕜***
+Only Ended Based on the Manifest V3 Update, Extensions are inherently created to be limited in their capabilities by Manifest V3.
+
 Limitations and Challenges:
 Frame Busting Scripts: Historically, frame-busting scripts have been used to prevent clickjacking by detecting if the page is being framed and breaking out of the frame. However, modern browsers have implemented protections to restrict frame-busting scripts under certain conditions to prevent abuse and ensure security.
 
