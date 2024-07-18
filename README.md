@@ -3,6 +3,7 @@
 ***Start of Researching Development Started on 18/7/2024 at 1:44AM 🕓***
 
 ***End of Development was on 18/7/2024 at 5:55PM 🕜***
+
 Only Ended Based on the Manifest V3 Update, Extensions are inherently created to be limited in their capabilities by Manifest V3.
 
 Limitations and Challenges:
