@@ -6,6 +6,8 @@
 
 Only Ended Based on the Manifest V3 Update, Extensions are inherently created to be limited in their capabilities by Manifest V3.
 
+**Depreciated**
+
   ![image](https://github.com/user-attachments/assets/ef1e9333-bf82-4e73-baf6-71b047661b38)
 
 
