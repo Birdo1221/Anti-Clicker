@@ -6,6 +6,9 @@
 
 Only Ended Based on the Manifest V3 Update, Extensions are inherently created to be limited in their capabilities by Manifest V3.
 
+![image](https://github.com/user-attachments/assets/ef1e9333-bf82-4e73-baf6-71b047661b38)
+
+
 Limitations and Challenges:
 Frame Busting Scripts: Historically, frame-busting scripts have been used to prevent clickjacking by detecting if the page is being framed and breaking out of the frame. However, modern browsers have implemented protections to restrict frame-busting scripts under certain conditions to prevent abuse and ensure security.
 
